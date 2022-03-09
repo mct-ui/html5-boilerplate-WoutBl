@@ -13,10 +13,6 @@ html {
 
     
 }
-::selection { 
-    background:#44C8F5;
-    color: White
-}
 
 /*
  * Remove text-shadow in selection highlight:
@@ -30,5 +26,6 @@ html {
 }
 
 ::selection {
-
+    background:#44C8F5;
+    color: White
 }
